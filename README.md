@@ -25,6 +25,7 @@ N/A
 N/A
 
 ## Authors and acknowledgment
+Starter code provided by University of Utah.
 Code refactored by me: Devon Ethington.
 
 ## License
