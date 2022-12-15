@@ -7,7 +7,7 @@ Devon Ethington's Submission for Module 1 Challenge for the U of U Coding Bootca
 N/A
 
 ## Visuals
-The page should look like this: https://i.imgur.com/GF3oagc.png
+The page should look like this: ![Screenshot of the page](https://i.imgur.com/GF3oagc.png)
 
 ## Installation
 N/A
